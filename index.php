@@ -13,5 +13,6 @@
     <h1></h1>
 </main>
 
+<?php include 'footer.html'; ?>
 </body>
 </html>
