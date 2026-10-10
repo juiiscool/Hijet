@@ -1,8 +1,8 @@
-CREATE DATABASE IF NOT EXISTS hije_db
+CREATE DATABASE IF NOT EXISTS hijet_db
   CHARACTER SET utf8mb4
   COLLATE utf8mb4_unicode_ci;
 
-USE hije_db;
+USE hijet_db;
 
 CREATE TABLE articles (
     id          INT AUTO_INCREMENT PRIMARY KEY,
